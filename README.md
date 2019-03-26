@@ -9,8 +9,3 @@ This project assumes that one has done the following courses within the speciali
  6. Data analysis with Python
  7. Data Visualization with Python
  8. Machine learning with Python
-<<<<<<< HEAD
- 
-=======
- 
->>>>>>> 4fd243bc2640a6c3996fd0031fa7fa2444b47b00
